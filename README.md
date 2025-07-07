@@ -1,4 +1,4 @@
-# Teste de Login - SauceDemo
+# Teste de Checkboxes 
 Este projeto contém um teste automatizado utilizando o Cypress para interagir com checkboxes da página Herokuapp.
 
 # Descrição
